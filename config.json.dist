@@ -1,0 +1,6 @@
+{
+  "api_url": "https://api.opsgenie.com/v2",
+  "api_token": "YOUR API TOKEN",
+  "start_date": "2022-01-01T00:00:00Z",
+  "query": "status: open"
+}
